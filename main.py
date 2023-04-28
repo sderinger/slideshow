@@ -1,5 +1,5 @@
-import os
 import sys
+import os
 import tkinter as tk
 from tkinter import *
 from PIL import Image, ImageTk
