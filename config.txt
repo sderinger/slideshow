@@ -1,0 +1,2 @@
+image_path=/Users/sashaderinger/Desktop/slideshow_project
+title=Photos
